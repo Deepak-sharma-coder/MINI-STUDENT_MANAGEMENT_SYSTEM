@@ -1,0 +1,38 @@
+input{
+    width: 700px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+input:hover{
+    background-color: rgb(230, 229, 229);
+    color: black;
+    border: 2px solid rgb(125, 13, 13);
+}
+
+label{
+    color: rgb(105, 8, 8);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin-left: 3px;
+}
+
+label:hover{
+    color: rgb(244, 137, 7);
+}
+
+#heading{
+    color: rgb(105, 8, 8);
+    font-weight: 800;
+    font-size: 28px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    width: 100px;
+}
+
+
+
